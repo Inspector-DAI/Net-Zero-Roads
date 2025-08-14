@@ -1,0 +1,230 @@
+DATA source,,
+CIA,CIA:https://www.cia.gov/the-world-factbook/field/roadways/country-comparison/,
+IRF,https://datawarehouse.worldroadstatistics.org/,
+Wikipedia,https://en.wikipedia.org/wiki/List_of_countries_by_road_network_size,
+Encyclopedia of nations,https://www.nationsencyclopedia.com/,
+Knoema,https://knoema.com/,
+Category,Year,Total road length (km)
+Afghanistan,2017,34903.00
+Albania,2020,3676.00
+Algeria,2010,104000.00
+American Samoa,2016,241.00
+Andorra,2019,320.00
+Angola,2020,76000.00
+Anguilla,2004,175.00
+Antigua and Barbuda,2011,1170.00
+Argentina,2020,281290.00
+Armenia,2020,7514.00
+Aruba,,1000.00
+Australia,2018,877651.00
+Austria,2020,127498.00
+Azerbaijan,2020,19228.00
+Bahamas,2011,2700.00
+Bahrain,2020,4940.00
+Bangladesh,2020,442401.00
+Barbados,2015,1700.00
+Belarus,2020,102961.00
+Belgium,2011,118414.00
+Belize,2017,3281.00
+Benin,2020,16000.00
+Bermuda,2020,551.00
+Bhutan,2020,18265.00
+Bolivia,2020,194949.00
+Bosnia and Herzegovina,2020,9110.00
+Botswana,2020,32563.00
+Brazil,2020,1577888.00
+British Virgin Islands,2007,200.00
+Brunei Darussalam,2020,3772.00
+Bulgaria,2020,19917.00
+Burkina Faso,2019,15310.00
+Burundi,2020,11513.00
+Cabo Verde,2020,2256.00
+Cambodia,2020,63432.00
+Cameroon,2018,123101.00
+Canada,2020,1042718.00
+Cayman Islands,2020,521.00
+Central African Republic,2018,24000.00
+Chad,2018,40000.00
+Chile,2020,85984.00
+China,2020,5198120.00
+"China, Hong Kong",2020,2150.00
+"China, Macao",2020,453.00
+Christmas Island,,142.00
+Cocos (Keeling) Islands,2007,22.00
+Colombia,2020,205900.00
+Comoros,2002,880.00
+Congo,2017,23324.00
+"Congo, Dem. Rep.",2020,152373.00
+Cook Islands,2018,295.00
+Costa Rica,2020,44537.00
+Cote d'Ivoire,2007,81996.00
+Croatia,2020,26749.00
+Cuba,2000,60000.00
+Curacao,,550.00
+Cyprus,2020,13139.00
+Czech Republic,2020,130711.00
+Denmark,2020,74890.00
+Djibouti,2013,2893.00
+Dominica,2018,1512.00
+Dominican Republic,2018,14211.00
+Ecuador,2020,43979.00
+"Egypt, Arab Rep.",2020,65050.00
+El Salvador,2017,9012.00
+Equatorial Guinea,2017,2880.00
+Eritrea,2018,16000.00
+Estonia,2020,58986.00
+Eswatini,2019,3769.00
+Ethiopia,2020,144028.00
+Falkland Islands (Islas Malvinas),2008,440.00
+Faroe Islands,2017,960.00
+Fiji,2011,3440.00
+Finland,2020,77908.00
+France,2020,1103800.00
+French Polynesia,1999,2590.00
+Gabon,2017,14300.00
+"Gambia, The",2020,3944.00
+Georgia,2020,21109.00
+Germany,2020,642721.00
+Ghana,2009,65725.00
+Gibraltar,2007,29.00
+Greece,2020,117884.00
+Grenada,2017,1127.00
+Guam,2008,1045.00
+Guatemala,2020,17876.00
+Guernsey,,260.00
+Guinea,2020,43310.00
+Guinea-Bissau,2018,4400.00
+Guyana,2019,3995.00
+Haiti,2009,4102.00
+Honduras,2020,16893.00
+Hungary,2020,215551.00
+Iceland,2020,12901.00
+India,2019,6371847.00
+Indonesia,2020,543450.00
+"Iran, Islamic Rep.",2020,220346.00
+Iraq,2020,45579.00
+Ireland,2020,98902.00
+Isle of Man,2022,1107.00
+Israel,2020,20245.00
+Italy,2020,235492.00
+Jamaica,2020,22198.00
+Japan,2020,1226800.00
+Jersey,2010,576.00
+Jordan,2020,8657.00
+Kazakhstan,2020,95768.00
+Kenya,2020,160140.00
+Kiribati,2017,670.00
+"Korea, Dem. People's Rep.",2006,25554.00
+"Korea, Rep.",2020,104828.00
+Kuwait,2020,5749.00
+Kyrgyz Republic,2019,34000.00
+Lao PDR,2020,58287.00
+Latvia,2020,58269.00
+Lebanon,2019,6686.00
+Lesotho,2011,5940.00
+Liberia,2018,10600.00
+Libya,2010,37000.00
+Liechtenstein,2020,845.00
+Lithuania,2020,85573.00
+Luxembourg,2020,2914.00
+Madagascar,2018,31640.00
+Malawi,2016,24929.00
+Malaysia,2020,291947.00
+Maldives,2018,93.00
+Mali,2018,89024.00
+Malta,2020,2853.00
+Marshall Islands,2007,2028.00
+Mauritania,2018,12253.00
+Mauritius,2020,2839.00
+Mexico,2020,397938.00
+Moldova,2020,13411.00
+Monaco,2020,57.00
+Mongolia,2020,111917.00
+Montenegro,2020,9727.00
+Morocco,2020,59134.00
+Mozambique,2020,30616.00
+Myanmar,2013,157000.00
+Namibia,2020,48540.00
+Nauru,2002,30.00
+Nepal,2019,27990.00
+Netherlands,2020,186936.00
+New Caledonia,2020,5622.00
+New Zealand,2020,96848.00
+Nicaragua,2020,24782.00
+Niger,2020,21560.00
+Nigeria,2017,195000.00
+Niue,2017,234.00
+Norfolk Island,2008,80.00
+North Macedonia,2020,14477.00
+Northern Mariana Islands,2008,536.00
+Norway,2020,94977.00
+Oman,2020,79796.00
+Pakistan,2020,270972.00
+Palau,,125.00
+Panama,2020,17419.00
+Papua New Guinea,2017,30000.00
+Paraguay,2020,78621.00
+Peru,2020,168878.00
+Philippines,2020,33287.00
+Poland,2020,430267.00
+Portugal,2020,14325.00
+Puerto Rico,2020,32051.00
+Qatar,2020,7039.00
+Romania,2020,118684.00
+Russian Federation,2020,1553664.00
+Rwanda,2020,6674.00
+Saint Barthelemy,,40.00
+Saint Helena,2002,198.00
+Saint Kitts and Nevis,2002,383.00
+Saint Lucia,2011,1210.00
+Saint Pierre and Miquelon,2009,117.00
+Samoa,2018,1150.00
+San Marino,2020,350.00
+Sao Tome and Principe,2001,1300.00
+Saudi Arabia,2020,120443.00
+Senegal,2020,47313.00
+Serbia,2020,44908.00
+Seychelles,2020,542.00
+Sierra Leone,2015,11701.00
+Singapore,2020,9530.00
+Sint Maarten,,53.00
+Slovak Republic,2020,57801.00
+Slovenia,2020,38652.00
+Solomon Islands,,1390.00
+Somalia,2016,15000.00
+South Africa,2020,750000.00
+South Sudan,,90200.00
+Spain,2020,538449.00
+Sri Lanka,2020,31300.00
+Sudan,2019,31000.00
+Suriname,2020,4931.00
+Svalbard,,40.00
+Sweden,2018,573134.00
+Switzerland,2020,83274.00
+Syrian Arab Republic,2017,69873.00
+Tajikistan,2018,14140.00
+Tanzania,2017,87581.00
+Thailand,2020,702577.00
+Timor-Leste,2018,8811.00
+Togo,2015,9951.00
+Tokelau,,10.00
+Tonga,2011,680.00
+Tunisia,2020,19782.00
+Turkey,2020,256328.00
+Turkmenistan,2020,13773.00
+Turks and Caicos Islands,2003,121.00
+Tuvalu,2011,8.00
+U.S. Virgin Islands,2008,1260.00
+Uganda,2019,146000.00
+Ukraine,2020,162152.00
+United Arab Emirates,2020,19000.00
+United Kingdom,2020,398359.00
+United States,2020,6645582.00
+Uruguay,2020,8732.00
+Uzbekistan,2020,44515.00
+Vanuatu,2000,1070.00
+Venezuela,2000,96167.00
+Vietnam,2018,278176.00
+"Yemen, Rep.",2017,71300.00
+Zambia,2020,67305.00
+Zimbabwe,2019,97267.00

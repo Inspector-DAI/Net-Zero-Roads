@@ -1,0 +1,33 @@
+Region,Road Type,Surface(cm),Asphalt Treated Base(cm),Cement Treated Base(cm),Granular Dase(cm)
+Africa,Motorway or Highway Network,5.00 ,,,15.00 
+,Secondary or Regional Road Network,,,,15.00 
+ASEAN (Association of Southeast Asian Nations),Motorway or Highway Network,6.00 ,17.00 ,,
+,Secondary or Regional Road Network,4.00 ,,,8.00 
+ATE (Asian Transition Economies) ,Motorway or Highway Network,4.00 ,12.00 ,,
+,Secondary or Regional Road Network,4.00 ,,,20.00 
+China ,Motorway or Highway Network,18.00 ,,40.00 ,
+,Secondary or Regional Road Network,9.00 ,,20.00 ,
+EU 5 (European Union 5) ,Motorway or Highway Network,6.00 ,12.00 ,,
+,Secondary or Regional Road Network,5.00 ,,,20.00 
+India ,Motorway or Highway Network,26.00 ,,,15.00 
+,Secondary or Regional Road Network,12.00 ,,,25.00 
+Latin America ,Motorway or Highway Network,19.00 ,,,19.00 
+,Secondary or Regional Road Network,7.50 ,,,15.00 
+Middle East ,Motorway or Highway Network,14.00 ,,,20.00 
+,Secondary or Regional Road Network,13.00 ,10.00 ,,
+ODA (Other Developing Asia),Motorway or Highway Network,5.00 ,,,20.00 
+,Secondary or Regional Road Network,5.00 ,,,30.00 
+OECD Europe  ,Motorway or Highway Network,15.00 ,12.00 ,,
+,Secondary or Regional Road Network,11.00 ,,,20.00 
+OECD North America ,Motorway or Highway Network,27.00 ,,,20.00 
+,Secondary or Regional Road Network,16.00 ,,,20.00 
+OECD Pacific ,Motorway or Highway Network,6.00 ,,,16.00 
+,Secondary or Regional Road Network,5.00 ,8.00 ,,
+OETE (Other European Transition Economies) ,Motorway or Highway Network,5.00 ,10.00 ,,
+,Secondary or Regional Road Network,9.00 ,,,9.00 
+Other OECD,Motorway or Highway Network,15.00 ,,,20.00 
+,Secondary or Regional Road Network,8.00 ,,,12.00 
+Others,Motorway or Highway Network,4.00 ,12.00 ,,
+,Secondary or Regional Road Network,3.00 ,10.00 ,,
+Russia,Motorway or Highway Network,26.00 ,,21.00 ,
+,Secondary or Regional Road Network,7.00 ,,30.00 ,
