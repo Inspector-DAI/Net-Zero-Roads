@@ -1,0 +1,21 @@
+feature,used_in_scripts,description
+"GDP/PPP,2030",2030 XGBOOST-RE.py,GDP (PPP) in 2030
+"GDP/PPP,2040",2040 XGBOOST+RE.py,GDP (PPP) in 2040
+"GDP/PPP,2050",2050 XG+RE.py,GDP (PPP) in 2050
+Land area (km2),2030 XGBOOST-RE.py;2040 XGBOOST+RE.py;2050 XG+RE.py,Land area (km2)
+Pop-2030,2030 XGBOOST-RE.py,Population in 2030
+Pop-2040,2040 XGBOOST+RE.py,Population in 2040
+Pop-2050,2050 XG+RE.py,Population in 2050
+Truck VKT (2030),2030 XGBOOST-RE.py,Truck vehicle-km (year indicated)
+Truck VKT (2040),2040 XGBOOST+RE.py,Truck vehicle-km (year indicated)
+Truck VKT (2050),2050 XG+RE.py,Truck vehicle-km (year indicated)
+VKT OF PLDV (2030),2030 XGBOOST-RE.py,Passenger/light-duty vehicle VKT (year indicated)
+VKT OF PLDV (2040),2040 XGBOOST+RE.py,Passenger/light-duty vehicle VKT (year indicated)
+VKT OF PLDV (2050),2050 XG+RE.py,Passenger/light-duty vehicle VKT (year indicated)
+continent_encoded,2050 XG+RE.py,Continent (encoded categorical)
+development_level_2050,2050 XG+RE.py,Development level (derived)
+gdp_growth_2040_2050,2050 XG+RE.py,GDP (PPP) in 2040
+oecd_encoded,2050 XG+RE.py,OECD membership flag (encoded)
+pop_density_2050,2050 XG+RE.py,Population in 2050
+pop_growth_2040_2050,2050 XG+RE.py,Population in 2040
+total_vkt_per_capita_2050,2050 XG+RE.py,Vehicle Kilometres Travelled (VKT)

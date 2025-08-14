@@ -1,0 +1,15 @@
+type,name,carbon emission factor,units
+Material,Crushed stone,3.87,kgCO2/m3
+Material,Petroleum bitumen,174.244,kgCO2/t
+Material,Mineral powder,7.39,kgCO2/t
+Material,Manufactured sand,15.9,kgCO2/m3
+Material,Cement,870,kgCO2/t
+Material,Modified emulsified asphalt,295.91,kgCO2/t
+Material,Pavement crushed stone,14.40,kgCO2/m3
+Material,Mineral powder,7.39,kgCO2/t
+Material,Modified asphalt,295.91,kgCO2/t
+Material,Fibers,278.20,kgCO2/t
+Energy,Heavy oil,0.0774,kgCO2/MJ
+Energy,Gasoline,0.0741,kgCO2/MJ
+Energy,Diesel,0.0741,kgCO2/MJ
+Energy,Electricity,0.0827,kgCO2/MJ
